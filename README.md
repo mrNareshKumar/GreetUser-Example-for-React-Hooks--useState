@@ -1,4 +1,4 @@
-# LIVE DEMO :-  <a href="https://greetusestate.ccbp.tech">GreetUser (useState) react hook</a>
+# LIVE DEMO :-  <a href="https://greetusestate.ccbp.tech">GreetUser Example - (useState) react hook</a>
 
 # Introduction to React Hooks and State Hook
 
